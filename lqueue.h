@@ -1,11 +1,7 @@
 /*
 * lqueue.h
-* Written by : Mai Anh Tran (c3427150)
-* Modified : 25/08/2023
 *
 * This class represents the header for a templated Queue using a linked list as the underlying collection.
-* This file should be used in conjunction with Assignment 2 for SENG1120/SENG6120.
-* This file should not be modified
 */
 
 #ifndef SENG1120_LQUEUE_H

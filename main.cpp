@@ -1,11 +1,7 @@
 /*
  * main.cpp
- * Written by : Mai ANh Tran (c3427150)
- * Modified : 12/04/2024
  *
  * This class represents the main runner for a doctor's office simulation.
- * This file should be used in conjunction with Assignment 2 for SENG1120/SENG6120.
- * This file should not be modified.
  */
 
 #include <random>

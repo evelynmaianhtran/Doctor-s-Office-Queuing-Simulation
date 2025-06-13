@@ -1,10 +1,7 @@
 /*
  * simulation.cpp
- * Written by : Mai Anh Tran (c3427150)
- * Modified : 12/04/2024
  *
  * This class represents the simulation in a doctor's office queuing system.
- * This file should be used in conjunction with Assignment 2 for SENG1120/SENG6120.
  */
 
 #include "simulation.h"

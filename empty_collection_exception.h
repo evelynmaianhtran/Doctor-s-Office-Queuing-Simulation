@@ -1,11 +1,6 @@
 /*
 * empty_collection_exception.h
-* Written by : Mai Anh Tran (c3427150)
-* Modified : 04/04/2024
 *
-* This class represents a custom exception that should be thrown when a collection is empty.
-* This file should be used in conjunction with Assignment 2 for SENG1120/SENG6120.
-* This file should not be modified.
 */
 
 #ifndef SENG1120_EMPTY_COLLECTION_H

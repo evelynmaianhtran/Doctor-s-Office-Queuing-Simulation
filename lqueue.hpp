@@ -1,11 +1,9 @@
 /*
 * lqueue.hpp
-* Written by : Mai Anh Tran (c3427150)
-* Modified : 05/02/2024
 *
 * This class represents the implementation for a templated Queue using a linked list as the underlying collection.
-* This file should be used in conjunction with Assignment 2 for SENG1120/SENG6120.
 */
+
 //Constructor
 //Create a new LQueue with all the variables initialised
 template <typename T>
